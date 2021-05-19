@@ -49,6 +49,8 @@ yarn dev
 ## Usage <a name = "usage"></a>
 
 You need to open the [frontend](https://points-on-map-frontend.herokuapp.com/) to test it.
+I developed resources to add, update and delete point on map also. 
+As is possible to see in [src/controllers/PointsController.ts](https://github.com/diegoaraujo85/points-on-map-backend/blob/master/src/controllers/PointsController.ts)
 
 
 Made with care by Diego Araujo to Up Trade :wave: [Get in touch!](https://www.linkedin.com/in/diegooliveiradearaujo)
