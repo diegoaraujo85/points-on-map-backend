@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+node_modules
+build/
+dist/
+temp/
+#ignora todos os arquivos na pasta tmp, exceto a própria pasta
+tmp/*
+!tmp/.gitkeep
+
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+
+.env
+ormconfig.json
